@@ -1,0 +1,6 @@
+gradio
+groq
+fastapi
+uvicorn
+urllib3
+requests
