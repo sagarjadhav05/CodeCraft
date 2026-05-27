@@ -1,3 +1,13 @@
+---
+title: CodeCraft
+emoji: 🛠️
+colorFrom: blue
+colorTo: red
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # 🛠️ CodeCraft: Multi-Agent AI Flutter Compiler
 
 An autonomous, cloud-hosted Generative AI engine that takes natural language app ideas, writes Dart code via a multi-agent LLM pipeline, and compiles live Flutter Web applications inside a sandboxed Docker container.
